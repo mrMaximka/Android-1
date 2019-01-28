@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson-3</string>
+    <string name="swWindTxt">Сила ветра</string>
+    <string name="swWetTxt">Влажность</string>
+    <string name="swPressureTxt">Давление</string>
+    <string name="firstTitle">Выберите город</string>
+    <string name="btnText">Узнать погоду</string>
+</resources>
