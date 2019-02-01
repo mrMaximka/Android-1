@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lesson-4</string>
+    <string name="sw_wind_txt">Сила ветра</string>
+    <string name="sw_wet_txt">Влажность</string>
+    <string name="sw_pressure_txt">Давление</string>
+    <string name="first_title">Выберите город</string>
+    <string name="btn_text">Узнать погоду</string>
+    <string name="second_title">Погода в городе\n%s</string>
+    <string name="temperature_txt">+ %d°</string>
+    <string name="wind_txt">Ветер:\t\t %d м/c</string>
+    <string name="wet_txt">Влажность:\t\t %d</string>
+    <string name="pressure_txt">Давление:\t\t %d мм.рт.ст</string>
+    <string name="town_1">Москва</string>
+    <string name="town_2">Санкт-Петербург</string>
+    <string name="town_3">Мурманск</string>
+    <string name="sky_1">Ясно</string>
+    <string name="sky_2">Облачно</string>
+    <string name="sky_3">Дождь</string>
+    <string name="sky_4">Снег</string>
+</resources>
