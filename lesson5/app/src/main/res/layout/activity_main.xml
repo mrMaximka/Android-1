@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background3"
+    android:orientation="vertical"
+    android:weightSum="7"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/FirstTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/first_title" />
+
+    <Spinner
+        android:id="@+id/towns"
+        style="@style/FirstSpinnerStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp" />
+
+
+    <Switch
+        android:id="@+id/wind_switch"
+        style="@style/FirstSwitchStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/sw_wind_txt" />
+
+    <Switch
+        android:id="@+id/wet_switch"
+        style="@style/FirstSwitchStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/sw_wet_txt" />
+
+    <Switch
+        android:id="@+id/pressure_switch"
+        style="@style/FirstSwitchStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/sw_pressure_txt" />
+
+    <Button
+        android:id="@+id/to_second_btn"
+        style="@style/FirstButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_text" />
+
+</LinearLayout>
