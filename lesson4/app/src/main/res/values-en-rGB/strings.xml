@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lesson-4</string>
+    <string name="sw_wind_txt">Wind force</string>
+    <string name="sw_wet_txt">Wet</string>
+    <string name="sw_pressure_txt">Pressure</string>
+    <string name="first_title">Select city</string>
+    <string name="btn_text">Check the weather</string>
+    <string name="second_title">Weather in \n%s</string>
+    <string name="temperature_txt">+ %d°</string>
+    <string name="wind_txt">Wind:\t\t %d м/c</string>
+    <string name="wet_txt">Wet:\t\t %d</string>
+    <string name="pressure_txt">Pressure:\t\t %d mmHg</string>
+    <string name="town_1">Moscow</string>
+    <string name="town_2">Saint Petersburg</string>
+    <string name="town_3">Murmansk</string>
+    <string name="sky_1">Sunny</string>
+    <string name="sky_2">Cloudy</string>
+    <string name="sky_3">Rain</string>
+    <string name="sky_4">Snow</string>
+</resources>
