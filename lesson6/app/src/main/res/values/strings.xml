@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lesson-6</string>
+    <string name="sw_wind_txt">Сила ветра</string>
+    <string name="sw_wet_txt">Влажность</string>
+    <string name="sw_pressure_txt">Давление</string>
+    <string name="first_title">Выберите город</string>
+    <string name="btn_text">Узнать погоду</string>
+    <string name="second_title">Погода в городе\n%s</string>
+    <string name="temperature_txt">+ %d°</string>
+    <string name="wind_txt">Ветер:\t\t %d м/c\n</string>
+    <string name="wet_txt">Влажность:\t\t %d\n</string>
+    <string name="pressure_txt">Давление:\t\t %d мм.рт.ст</string>
+    <string name="share">Share</string>
+    <string name="SearchInBrowser">Смотреть в браузере</string>
+    <string name="message">Погода в городе %s\nТемпература: + %d°\n%s\n</string>
+    <string name="app_not_found">Приложения не существует</string>
+    <string name="uri_txt">http://yandex.ru/pogoda/</string>
+
+    <string-array name="towns">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Мурманск</item>
+    </string-array>
+
+    <string-array name="sky">
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Дождь</item>
+        <item>Снег</item>
+    </string-array>
+</resources>
